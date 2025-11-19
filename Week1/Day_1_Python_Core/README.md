@@ -4,7 +4,6 @@
 [![Last Commit](https://img.shields.io/github/last-commit/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement)
 [![Top Language](https://img.shields.io/github/languages/top/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement)
-[![License](https://img.shields.io/github/license/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement)
 
 Short, focused review and practice plan to refresh core Python concepts and produce small, useful scripts.
 
