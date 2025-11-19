@@ -8,23 +8,27 @@
 Short, focused review and practice plan to refresh core Python concepts and produce small, useful scripts.
 
 ## 📋 Table of contents
+ 
+- [Description](#description)
+- [Elaboration](#elaboration)
+- [Subtopics to focus on](#subtopics-to-focus-on)
+- [Key deliverables (checklist)](#key-deliverables-checklist)
 
-- [Description](#-description)
-- [Elaboration](#-elaboration)
-- [Subtopics to focus on](#-subtopics-to-focus-on)
-- [Key deliverables (checklist)](#-key-deliverables-checklist)
-
+<a id="description"></a>
 ## 📘 Description
 
 Where: follow the Python official tutorial (docs.python.org), freeCodeCamp Python section, and selected Real Python articles.
 
 How: Read the short tutorial sections on data types and control flow, then immediately apply by writing small scripts and 10 short exercises.
 
+<a id="elaboration"></a>
 ## ⚙️ Elaboration
 
 - Spend the first half of the session reviewing basics: variables, data types, control flow, and common collection operations.
 - Spend the second half implementing small scripts to reinforce syntax, tooling, and readability (PEP 8).
 
+
+<a id="subtopics-to-focus-on"></a>
 ## 🔎 Subtopics to focus on
 
 - Data types: `str`, `int`, `float`, `list`, `tuple`, `dict`, `set`
@@ -34,6 +38,7 @@ How: Read the short tutorial sections on data types and control flow, then immed
 - File I/O and CSV reading
 - Exception handling basics
 
+<a id="key-deliverables-checklist"></a>
 ## ✅ Key deliverables (checklist)
 
 - [ ] calculator (basic arithmetic + input validation)
