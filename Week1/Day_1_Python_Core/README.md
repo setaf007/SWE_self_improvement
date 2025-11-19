@@ -11,10 +11,9 @@ Short, focused review and practice plan to refresh core Python concepts and prod
 ## 📋 Table of contents
 
 - [Description](#-description)
-- [How we'll work](#-how-well-work)
+- [How we'll work](#-elaboration)
 - [Subtopics to focus on](#-subtopics-to-focus-on)
 - [Key deliverables (checklist)](#-key-deliverables-checklist)
-- [Suggested badges](#-suggested-badges)
 
 ## 📘 Description
 
@@ -22,7 +21,7 @@ Where: follow the Python official tutorial (docs.python.org), freeCodeCamp Pytho
 
 How: Read the short tutorial sections on data types and control flow, then immediately apply by writing small scripts and 10 short exercises.
 
-## ⚙️ How we'll work
+## ⚙️ Elaboration
 
 - Spend the first half of the session reviewing basics: variables, data types, control flow, and common collection operations.
 - Spend the second half implementing small scripts to reinforce syntax, tooling, and readability (PEP 8).
