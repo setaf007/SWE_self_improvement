@@ -10,7 +10,7 @@ Short, focused review and practice plan to refresh core Python concepts and prod
 ## 📋 Table of contents
 
 - [Description](#-description)
-- [How we'll work](#-elaboration)
+- [Elaboration](#-elaboration)
 - [Subtopics to focus on](#-subtopics-to-focus-on)
 - [Key deliverables (checklist)](#-key-deliverables-checklist)
 
