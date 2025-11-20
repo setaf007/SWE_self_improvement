@@ -1,0 +1,8 @@
+id,name,age,active,balance,notes,signup_date
+1,John Doe,29,true,1023.50,"Preferred customer",2023-01-15
+2,"Smith, Anna",34,false,0.00,"Requested callback",2022-12-02
+3,"O'Neil, Shaun",,true,250.75,"Has ""VIP"" status",2023-03-10
+4,Maria,27,false,,"Multiline note
+includes newline",2023-04-01
+5,,40,false,0.00,, 
+6,"Comma, Quote ""Test""",45,true,9999.99,"Contains comma, quote",2021-07-23

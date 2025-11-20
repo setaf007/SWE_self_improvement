@@ -1,0 +1,5 @@
+Python is a powerful programming language. Python is used for web development, data analysis, and automation.
+
+Many developers love Python because it is easy to read and write. Python scripts are often short and expressive.
+
+The Python community is large and supportive. Learning Python can open doors to many exciting opportunities.

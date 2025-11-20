@@ -17,32 +17,34 @@ Short, focused review and practice plan to refresh core Python concepts and prod
 <a id="description"></a>
 ## 📘 Description
 
-Where: follow the Python official tutorial (docs.python.org), freeCodeCamp Python section, and selected Real Python articles.
+Where: Real Python’s [Defining Your Own Python Function](https://realpython.com/defining-your-own-python-function/) and freeCodeCamp Python curriculum.
 
-How: Read the short tutorial sections on data types and control flow, then immediately apply by writing small scripts and 10 short exercises.
+How: Practice writing clean, reusable functions. Group related logic into modules. Add basic test scripts using `assert` statements to validate behavior.
 
 <a id="elaboration"></a>
 ## ⚙️ Elaboration
 
-- Spend the first half of the session reviewing basics: variables, data types, control flow, and common collection operations.
-- Spend the second half implementing small scripts to reinforce syntax, tooling, and readability (PEP 8).
+- Start by reviewing function syntax, parameters, return values, and docstrings.
+- Refactor previous scripts (e.g., calculator, word counter) into modular functions.
+- Create a custom module (`utils.py`) and import it into main scripts.
+- Write simple test scripts to validate function correctness using `assert`.
 
 
 <a id="subtopics-to-focus-on"></a>
 ## 🔎 Subtopics to focus on
 
-- Data types: `str`, `int`, `float`, `list`, `tuple`, `dict`, `set`
-- Loops & conditionals
-- String formatting & slicing (f-strings)
-- List/dict comprehensions
-- File I/O and CSV reading
-- Exception handling basics
+- Function definition and return values
+- Positional vs keyword arguments
+- Default parameters and `*args` / `**kwargs`
+- Docstrings and function annotations
+- Module creation and importing
+- Basic testing with `assert` and `__name__ == "__main__"`
 
 <a id="key-deliverables-checklist"></a>
 ## ✅ Key deliverables (checklist)
 
-- [x] calculator (basic arithmetic + input validation)
-- [x] csv parser (read CSV, summarize rows/columns)
-- [x] word counter (file-based word frequency)
-- [x] temperature converter (Celsius ↔ Fahrenheit)
-- [x] CLI based countdown timer
+- [ ] `utils.py` module with at least 3 reusable functions
+- [ ] Refactored script using functions from `utils.py`
+- [ ] Test script with `assert`-based checks
+- [ ] Function with docstring and type hints
+- [ ] Script demonstrating `if __name__ == "__main__"` usage
