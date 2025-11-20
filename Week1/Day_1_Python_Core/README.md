@@ -1,10 +1,5 @@
 # 🐍 Day 1 — Python Core Review
 
-<!-- Badges: project-specific GitHub badges (owner: setaf007, repo: SWE_self_improvement) -->
-[![Last Commit](https://img.shields.io/github/last-commit/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement)
-[![Top Language](https://img.shields.io/github/languages/top/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement)
-
 ## 📋 Table of contents
  
 - [Description](#description)
