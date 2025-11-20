@@ -2,6 +2,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/setaf007/SWE_self_improvement?color=blue)](https://github.com/setaf007/SWE_self_improvement)
 [![GitHub repo size](https://img.shields.io/github/repo-size/setaf007/SWE_self_improvement)](https://github.com/setaf007/SWE_self_improvement)
+[![Top Language](https://img.shields.io/github/languages/top/setaf007/SWE_self_improvement?style=flat)](https://github.com/setaf007/SWE_self_improvement)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > 👋 Hi, I'm Taskin — a software engineer with a passion for building robust, scalable systems and exploring all things tech.
